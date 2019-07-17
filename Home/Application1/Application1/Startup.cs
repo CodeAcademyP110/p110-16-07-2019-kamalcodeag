@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Application1.Database;
+using Application1.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -39,7 +40,7 @@ namespace Application1
                 options.UseSqlServer(Configuration["ConnectionStrings:DefaultConnection"]);
             });
 
-            services.AddIdentity<IdentityUser, IdentityRole>()
+            services.AddIdentity<MyUser, IdentityRole>()
                     .AddEntityFrameworkStores<MySample>();
 
             services.AddMvc();

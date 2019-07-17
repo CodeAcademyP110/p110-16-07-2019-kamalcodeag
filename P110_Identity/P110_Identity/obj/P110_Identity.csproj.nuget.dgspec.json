@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity)\\P110_Identity\\P110_Identity\\P110_Identity.csproj": {}
+    "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity,identityUser,userManager)\\P110_Identity\\P110_Identity\\P110_Identity.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity)\\P110_Identity\\P110_Identity\\P110_Identity.csproj": {
+    "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity,identityUser,userManager)\\P110_Identity\\P110_Identity\\P110_Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity)\\P110_Identity\\P110_Identity\\P110_Identity.csproj",
+        "projectUniqueName": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity,identityUser,userManager)\\P110_Identity\\P110_Identity\\P110_Identity.csproj",
         "projectName": "P110_Identity",
-        "projectPath": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity)\\P110_Identity\\P110_Identity\\P110_Identity.csproj",
+        "projectPath": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity,identityUser,userManager)\\P110_Identity\\P110_Identity\\P110_Identity.csproj",
         "packagesPath": "C:\\Users\\KAMAL\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity)\\P110_Identity\\P110_Identity\\obj\\",
+        "outputPath": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity,identityUser,userManager)\\P110_Identity\\P110_Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

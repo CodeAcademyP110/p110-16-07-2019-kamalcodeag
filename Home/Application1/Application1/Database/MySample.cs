@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Application1.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Application1.Database
 {
-    public class MySample : IdentityDbContext
+    public class MySample : IdentityDbContext<MyUser>
     {
         public MySample(DbContextOptions<MySample> options) : base(options)
         {

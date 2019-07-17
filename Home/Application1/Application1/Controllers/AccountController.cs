@@ -12,8 +12,8 @@ namespace Application1.Controllers
     public class AccountController : Controller
     {
         private readonly MySample _context;
-        private readonly UserManager<IdentityUser> _userManager;
-        public AccountController(MySample context, UserManager<IdentityUser> userManager)
+        private readonly UserManager<MyUser> _userManager;
+        public AccountController(MySample context, UserManager<MyUser> userManager)
         {
             _context = context;
             _userManager = userManager;
@@ -49,7 +49,13 @@ namespace Application1.Controllers
                     {
                         ModelState.AddModelError("", error.Description);
                     }
+
+                    return View(registerVM);
                 }
+            }
+            else
+            {
+                return View(registerVM);
             }
             return RedirectToAction("Index", "Home");
             //return View();

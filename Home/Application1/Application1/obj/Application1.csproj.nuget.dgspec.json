@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity)\\Home\\Application1\\Application1\\Application1.csproj": {}
+    "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity,identityUser,userManager)\\Home\\Application1\\Application1\\Application1.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity)\\Home\\Application1\\Application1\\Application1.csproj": {
+    "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity,identityUser,userManager)\\Home\\Application1\\Application1\\Application1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity)\\Home\\Application1\\Application1\\Application1.csproj",
+        "projectUniqueName": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity,identityUser,userManager)\\Home\\Application1\\Application1\\Application1.csproj",
         "projectName": "Application1",
-        "projectPath": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity)\\Home\\Application1\\Application1\\Application1.csproj",
+        "projectPath": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity,identityUser,userManager)\\Home\\Application1\\Application1\\Application1.csproj",
         "packagesPath": "C:\\Users\\KAMAL\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity)\\Home\\Application1\\Application1\\obj\\",
+        "outputPath": "D:\\Programming\\Other\\ASP.NET\\16.07.2019(Identity,identityUser,userManager)\\Home\\Application1\\Application1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
